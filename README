@@ -1,0 +1,5 @@
+Elast out of the box didn't work and you had to fix it (USAGE printout is weird, and you had to hard code the paths to two modules in elast.c).  So tar up what you've got, don't share the original elast.tar (now renamed)
+
+There was a problem with both titanium and thallium having the same initials in a_tables.h.  This is now corrected - Lee Bernstein, 2/15/20
+
+Adding "I " as a hack-in to allow single-letter element names - Andrew Voyles, 24 Nov 2021
