@@ -502,8 +502,12 @@ don't forget the switch to link it (should be "-lm"). Since all data
 will be included in the executable file, one needs only the executable file
 itself to use the program.
 
+gcc elast.c -o elast -lm
+
 You also can compile elast on a MS-DOS PC. I suceeded using gcc in a suitable
 portation.
+
+
 
 
 
